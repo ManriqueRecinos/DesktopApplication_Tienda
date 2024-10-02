@@ -1,0 +1,69 @@
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe.config
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.AssemblyReference.cache
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.SuggestedBindingRedirects.cache
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.Inicio.resources
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.Properties.Resources.resources
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.GenerateResource.cache
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.CoreCompileInputs.cache
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.AgregarProduc.resources
+C:\Users\manre\OneDrive\Escritorio\ITCA\DAE\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.QuitarProduc.resources
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe.config
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.AssemblyReference.cache
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.SuggestedBindingRedirects.cache
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.Inicio.resources
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.AgregarProduc.resources
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.QuitarProduc.resources
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.Properties.Resources.resources
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.GenerateResource.cache
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.CoreCompileInputs.cache
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.ModificarProduc.resources
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Guna.UI2.dll
+C:\Users\sapatrimonio\Desktop\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.CopyComplete
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe.config
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Guna.UI2.dll
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.AssemblyReference.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.SuggestedBindingRedirects.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.QuitarProduc.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.ModificarProduc.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.Properties.Resources.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.GenerateResource.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.CoreCompileInputs.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.CopyComplete
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.LOGIN.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.FrmInicio.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.FrmAgProducto.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe.config
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\Guna.UI2.dll
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.AssemblyReference.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.SuggestedBindingRedirects.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.FrmAgProducto.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.QuitarProduc.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.ModificarProduc.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.LOGIN.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.Properties.Resources.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.GenerateResource.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.CoreCompileInputs.cache
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.csproj.CopyComplete
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.exe
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.pdb
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.FrmInicioAdmin.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\MaterialSkin.dll
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.VerProductos.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.FrmInicioStandar.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\bin\Debug\ff-Adlm-GN\Sistema_Tienda_Claudia.resources.dll
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\Sistema_Tienda_Claudia.FrmAgProducto.ff-Adlm-GN.resources
+C:\Users\manre\OneDrive\Escritorio\Proyecto DAE\Sistema_Tienda_Claudia\Sistema_Tienda_Claudia\obj\Debug\ff-Adlm-GN\Sistema_Tienda_Claudia.resources.dll
